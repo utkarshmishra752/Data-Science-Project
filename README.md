@@ -1,5 +1,5 @@
 ## Data-Science-Project
-The project is based on Prediction Model which, with the use of the model designed,  predicts whether the customers of a bank will subscribe to a term deposit or not.
+The project is based on Prediction Model which, with the help of the model designed,  predicts whether the customers of a bank will subscribe to a term deposit or not.
 
 The project can be broken down into 4 different parts:
 1. Importing Dataset
